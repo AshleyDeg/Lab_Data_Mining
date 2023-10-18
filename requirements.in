@@ -1,0 +1,25 @@
+pip-tools
+tqdm
+
+Fabric3 # tasks
+
+requests
+pyquery
+wget
+
+pytest # testing
+
+jupyter
+notebook>=6.1.5
+Jinja2
+
+pandas # dataframes
+
+matplotlib # plotting
+plotly
+seaborn
+
+spacy # nlp
+gensim
+
+googlemaps>=3.0.2 # mapping using google api
