@@ -1,5 +1,8 @@
 # Lab Data Mining
-%Before running capitolo_4_Parte2_BagOfWords.ipynb run capitolo_4_BagOfWords.ipynb
+<!---
+Before running capitolo_4_Parte2_BagOfWords.ipynb run capitolo_4_BagOfWords.ipynb
+-->
+
 Analisi del dataset dei casi del New Mexico estratti da _Caselaw Access Project_: analisi ed esplorazione del dataset. 
 
 Strategie usate per lo studio del dataset:
