@@ -3,7 +3,7 @@
 Before running capitolo_4_Parte2_BagOfWords.ipynb run capitolo_4_BagOfWords.ipynb
 -->
 
-Analisi del dataset dei casi del New Mexico estratti da _Caselaw Access Project_: analisi ed esplorazione del dataset. 
+Analisi del dataset dei casi della giurisdizione del New Mexico estratti da _Caselaw Access Project_: analisi ed esplorazione del dataset. 
 
 Strategie usate per lo studio del dataset:
 - Analisi del grafo delle citazioni (capitolo 1)
